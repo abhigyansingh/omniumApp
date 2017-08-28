@@ -12,6 +12,8 @@ Node & npm installed in server. More requirements to be updated later.
 
 Install at your own risk or if you know what you are doing. No liabilities considered what so ever. 
 
+Any FOSS enthusiasts are always welcome to share your views & suggestions.
+
  Clone the repo
  Install node modules via npm Then bower install for angular
  Start the App via server.js
