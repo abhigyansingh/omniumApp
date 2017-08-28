@@ -1,7 +1,7 @@
 {
   "name"         : "omniumtodo",
   "version"      : "0.0.0",
-  "description"  : "Multiplatform todo app.",
+  "description"  : "Multi platform todo (i.e task organizer) app.",
   "main"         : "server.js",
   "author"       : "Abhigyan Singh",
   "dependencies" : {
