@@ -6,13 +6,13 @@ Created as a PoC for multi-platform connection capabilities with a Node backend 
 
 ## Requirements
 
-Node & npm installed in server. More requirements will be updated later.
+Node & npm installed in server. More requirements to be updated later.
 
 ## Installation
 
-Go Ahead at your own risk if you know what you are doing. No liabilities will be considered. 
+Install at your own risk or if you know what you are doing. No liabilities considered what so ever. 
 
-1. Clone the repository 
-2. Install via npm
-3. Start the server.js
-4. Set Url & port in server.js & view in browser at 'http://localhost:7421'
+ Clone the repo
+ Install node modules via npm Then bower install for angular
+ Start the App via server.js
+ View in browser at 'http://hostname:#port' (where Url: <hostname> & port: <#port> resp in main file)
