@@ -1,20 +1,27 @@
-# Multiplatform todo app.
+# A Multiplatform app.
 
-A webapp with Node, MongoDB and Angular. 
+Webapp with Node, MongoDB, MySQL and Angular... 
 
-Created as a PoC for multi-platform connection capabilities with a Node backend (RESTful API from Node).
+A PoC project with Node & Python backend (RESTful API from Node).
 
 ## Requirements
 
-Node & npm installed in server. More requirements to be updated later.
+Node & npm installed in server.
 
 ## Installation
 
-Install at your own risk or if you know what you are doing. No liabilities considered what so ever. 
+ - Python3
+ - >=Node16
+ - React
+ - Angular
 
-Any FOSS enthusiasts are always welcome to share your views & suggestions.
+##### Any contributors are always welcome to share your views,suggestions,code etc.
 
- Clone the repo
- Install node modules via npm Then bower install for angular
- Start the App via server.js
- View in browser at 'http://hostname:#port' (where Url: <hostname> & port: <#port> resp in main file)
+## Clone the repo
+ - Install nvm, npm, node 
+ - Angular
+ - Python3
+ 
+ ## Start the App via server.js
+ 
+ View in browser at 'http://hostname:#port' 
